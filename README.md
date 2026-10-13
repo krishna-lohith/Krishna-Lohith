@@ -1,219 +1,116 @@
-<div align="center">
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00f5ff&height=220&section=header&text=KRISHNA%20M&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Gen%20AI%20Builder&descAlignY=60&descSize=20&animation=fadeIn" />
+</p>
 
-<img src="assets/header.svg" width="100%" alt="Lohith M"/>
+<p align="center">
+  <a href="https://github.com/krishna-lohith">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=%3E+Initializing+Krishna.exe...;Software+Developer+%7C+Gen+AI+Engineer;Turning+tokens+into+products+%E2%9A%A1;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=3ECF8E&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Building+DeshMate+%F0%9F%8F%A0+%26+Porzolio+%F0%9F%8E%A8;GenAI+%C2%B7+RAG+%C2%B7+Agentic+AI+%C2%B7+MLOps;Shipping+full-stack+products+solo+%F0%9F%9A%80;Always+learning%2C+always+building+%F0%9F%93%9A" alt="Typing SVG" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krishna-lohith&label=PROFILE%20VIEWS&color=00f5ff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9d?style=for-the-badge&logo=statuspage&logoColor=black" />
+  <img src="https://img.shields.io/badge/MODE-BUILDING-ff00e6?style=for-the-badge&logo=rocket&logoColor=white" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=krishna-lohith&color=3ecf8e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+---
 
-</div>
+## `> whoami`
 
-```text
-██╗      ██████╗ ██╗  ██╗██╗████████╗██╗  ██╗
-██║     ██╔═══██╗██║  ██║██║╚══██╔══╝██║  ██║
-██║     ██║   ██║███████║██║   ██║   ███████║
-██║     ██║   ██║██╔══██║██║   ██║   ██╔══██║
-███████╗╚██████╔╝██║  ██║██║   ██║   ██║  ██║
-╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝
+```python
+class KrishnaM:
+    def __init__(self):
+        self.role       = ["Software Developer", "Gen AI Engineer"]
+        self.code       = ["Java", "Python", "JavaScript", "HTML", "CSS"]
+        self.cloud      = "AWS"
+        self.ai_stack   = ["LLMs", "RAG", "Prompt Engineering", "Embeddings", "Tokens"]
+        self.mission    = "Build software that thinks."
+        self.fuel       = "coffee + curiosity"
+
+    def current_status(self):
+        return "Shipping products where clean code meets intelligent AI ⚡"
+
+me = KrishnaM()
 ```
 
-```bash
-┌──(lohith㉿github)-[~]
-└─$ whoami
+---
 
-> AI/ML engineer · builder · learner
-> I train models by day and ship full-stack products by night
-> GenAI, RAG & agentic pipelines — plus two live products built solo
+## `> system.scan(skills)`
 
-┌──(lohith㉿github)-[~]
-└─$ ls ./flagship-builds
+<h3 align="center">⚙️ Software Core</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,js,html,css,react,aws,docker,git,github,linux,vscode&perline=6" />
+</p>
 
-  deshmate/   porzolio/   portfolio/
+<h3 align="center">🧠 Gen AI Engine</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=00f5ff" />
+  <img src="https://img.shields.io/badge/RAG-0f0c29?style=for-the-badge&logo=databricks&logoColor=ff00e6" />
+  <img src="https://img.shields.io/badge/Tokens-302b63?style=for-the-badge&logo=bitcoin&logoColor=00ff9d" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=gnubash&logoColor=00f5ff" />
+  <img src="https://img.shields.io/badge/Embeddings-0f0c29?style=for-the-badge&logo=apachespark&logoColor=ff00e6" />
+  <br/>
+  <img src="https://img.shields.io/badge/LangChain-302b63?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
+  <img src="https://img.shields.io/badge/Claude-0f0c29?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-302b63?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=protocolsdotio&logoColor=00ff9d" />
+</p>
+
+---
+
+## `> boot_sequence.log`
+
+```diff
++ [OK]  Java & Python modules loaded
++ [OK]  Web layer online (HTML / CSS / JS)
++ [OK]  Cloud uplink established (AWS)
++ [OK]  LLM connected, context window ready
++ [OK]  RAG pipeline: retrieve → augment → generate
+! [WARN] Token budget optimized, zero waste allowed
++ [OK]  All systems go. Ready to build the future 🚀
 ```
 
-<br/>
+---
 
-<div align="center">
+## `> analytics.render()`
 
-## 🚀 Flagship Builds
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=krishna-lohith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-lohith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" />
+</p>
 
-*Two live products — designed, built, shipped & operated end-to-end by one person.*
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=krishna-lohith&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=ff00e6&currStreakLabel=00f5ff" />
+</p>
 
-</div>
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-lohith&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=ff00e6&point=00ff9d&area=true" />
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🏠 DeshMate
-[![Live](https://img.shields.io/badge/LIVE-deshmate.com-3ecf8e?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0d1117)](https://www.deshmate.com)
-![Status](https://img.shields.io/badge/ML%2FAI_integration-in_progress-ffb000?style=flat-square&labelColor=0d1117)
+## `> establish_connection()`
 
-> **"Roommates who feel like home"** — a production roommate-matching marketplace for immigrant students & professionals across the US. Matches by community, language, food & lifestyle — not just rent and location.
+<p align="center">
+  <a href="https://www.linkedin.com/in/krishnakrishna">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:krishnakrishna.m777@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=00f5ff" />
+  </a>
+  <a href="https://github.com/krishna-lohith">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-- 🌏 **36+ cultural & language communities** across US metros
-- 🗺️ Map-based search, saved rooms, reviews & direct contact
-- 🔐 Google OAuth + verified-email auth with photo listings
-- 🛡️ Admin moderation dashboard with automated removal emails
-- ⚡ **Sub-second loads** on a zero-framework stack, near-zero infra spend
-- 🤖 Now integrating ML: smarter matching & recommendations
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=FF00E6&center=true&vCenter=true&width=600&lines=%22The+future+is+written+in+code+and+prompts.%22;Thanks+for+visiting.+Let's+build+something+epic." />
+</p>
 
-```text
-┌─ stats ────────────────────────┐
-│  communities   36+             │
-│  load time     < 1s            │
-│  releases      daily           │
-└────────────────────────────────┘
-```
-
-`JavaScript` `Supabase` `PostgreSQL + RLS` `Vercel Serverless` `Google OAuth` `Resend` `Leaflet.js` `Cloudflare`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 Porzolio
-[![Live](https://img.shields.io/badge/LIVE-porzolio.vercel.app-3ecf8e?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117)](https://porzolio.vercel.app/)
-![Status](https://img.shields.io/badge/beta-actively_evolving-3ecf8e?style=flat-square&labelColor=0d1117)
-
-> **"Your work, beautifully arranged"** — a no-code portfolio builder where you drag, resize & style blocks on a free-form canvas and publish instantly as a shareable public profile.
-
-- 🖱️ **Custom vanilla-JS canvas engine** bridged into React — drag, resize, z-order, undo, rich-text toolbar
-- 🧩 Blocks for text, links, images, video, audio, PDFs & resumes
-- 📄 Multi-page workspaces, starter templates, opt-in Explore directory
-- 💾 Each site persisted as a single JSON document with autosave
-- 🔗 Link enrichment via Microlink, YouTube Embed & GitHub APIs
-- 🛡️ Sanitized user HTML to prevent stored XSS
-
-```text
-┌─ stats ────────────────────────┐
-│  canvas engine   custom-built  │
-│  auth            OAuth + magic │
-│  persistence     autosave JSON │
-└────────────────────────────────┘
-```
-
-`Next.js 16` `React 19` `Supabase` `PostgreSQL RLS` `Vanilla JS Canvas` `Vercel`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🌐 lohith-m-portfolio — my personal site
-[![Live](https://img.shields.io/badge/LIVE-lohith--m--portfolio.vercel.app-3ecf8e?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117)](https://lohith-m-portfolio.vercel.app)
-
-> A **dark, cinematic portfolio** built like a product — scroll-driven storytelling with a Three.js neural-field background, GSAP scroll animations, buttery Lenis smooth-scrolling, and dedicated deep-dive pages for DeshMate & Porzolio.
-
-`React 19` `TypeScript` `Vite` `Tailwind` `GSAP + ScrollTrigger` `Three.js` `Lenis` `Vercel`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🧪 ML Lab & Other Builds
-
-**🏦 Customer Churn Prediction** · [🚀 Live Demo](https://annclassificationchurn-srgf6gbtvlvj3aipqmz8r9.streamlit.app/) · [📓 Repo](https://github.com/krishna-lohith/ANN_Binary_Classification_Churn)
-> ANN binary classifier for bank customer churn — full pipeline with feature engineering & hyperparameter tuning, deployed on Streamlit.
-> `TensorFlow` `Keras` `Scikit-learn` `Streamlit`
-
-**🎬 IMDB Sentiment Analysis** · [🚀 Live Demo](https://rnn-imdb-review-classification-eunnmruxwtpattzw4pjqoa.streamlit.app/) · [📓 Repo](https://github.com/krishna-lohith/RNN-IMDB-Review-Classification)
-> SimpleRNN movie-review sentiment classifier — full NLP pipeline: tokenization → embedding → RNN → sigmoid.
-> `TensorFlow` `Keras` `NLP` `SimpleRNN`
-
-**🤖 Biped Walking Robot** · [▶ Watch Demo](https://www.youtube.com/watch?v=m2g34fkaxhI) · 🏅 **Best Robot Award**
-> Fully functional biped robot with stable forward & backward walking — fastest, most precise walker in the contest. Servo sequences programmed in C++ via Arduino.
-> `Arduino` `C++` `Servo Motors` `Robotics`
-
-**🚨 Accident Detection & Alert System** · 🥇 **1st Prize · 36-Hr Hackathon**
-> Real-time IoT accident detection with GPS-triggered emergency alerts.
-> `Python` `Raspberry Pi` `IoT` `Computer Vision`
-
-<br/>
-
-## ✍️ I Write on Medium
-
-[![Medium](https://img.shields.io/badge/Medium-@krishnalohith77-12100E?style=for-the-badge&logo=medium&logoColor=3ecf8e&labelColor=0d1117)](https://medium.com/@krishnalohith77)
-
-> 📡 Sharing **tech news & knowledge** — AI, machine learning, and everything I learn along the way.
->
-> Latest: [**Statistics for Machine Learning**](https://medium.com/@krishnalohith77/statistics-for-machine-learning-7e21af6ac87b) — a deep dive into descriptive & inferential statistics with real-world examples.
-
-<br/>
-
-## 🧰 Tech Arsenal
-
-```text
-┌─ ai / ml ───────────────────────────────────────────────────┐
-│  XGBoost · Scikit-learn · Optuna · Statistical Modeling     │
-│  PyTorch · TensorFlow · Keras · ANN / RNN · Fine-Tuning     │
-├─ genai / llm ───────────────────────────────────────────────┤
-│  LangChain · LangGraph · LlamaIndex · RAG / Agentic AI      │
-│  GPT-4 / Claude · MCP · FAISS / Pinecone / ChromaDB         │
-├─ mlops & deployment ────────────────────────────────────────┤
-│  FastAPI · MLflow · DVC · Docker · Prometheus · CI/CD       │
-├─ cloud & data eng ──────────────────────────────────────────┤
-│  AWS (EC2 · Lambda · S3) · Airflow · Databricks · Redshift  │
-├─ full-stack ────────────────────────────────────────────────┤
-│  React · Next.js · Supabase · PostgreSQL · Vercel           │
-├─ analytics ─────────────────────────────────────────────────┤
-│  Python · SQL · Power BI · DAX · Advanced Excel             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3ecf8e)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=3ecf8e)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=3ecf8e)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=3ecf8e)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=3ecf8e)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=3ecf8e)
-![OpenAI](https://img.shields.io/badge/GPT--4-0d1117?style=for-the-badge&logo=openai&logoColor=3ecf8e)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=3ecf8e)
-![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logo=mlflow&logoColor=3ecf8e)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=3ecf8e)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=3ecf8e)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ecf8e)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=3ecf8e)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=3ecf8e)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=3ecf8e)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=3ecf8e)
-
-</div>
-
-<br/>
-
-## 📡 Live Telemetry
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishna-lohith&theme=github_dark" height="180" alt="GitHub stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishna-lohith&theme=github_dark" height="180" alt="Top languages"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krishna-lohith&theme=github_dark" height="180" alt="Most committed language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krishna-lohith&theme=github_dark&utcOffset=-5" height="180" alt="Productive time"/>
-
-<img src="https://streak-stats.demolab.com?user=krishna-lohith&hide_border=true&background=0d1117&ring=3ecf8e&fire=3ecf8e&stroke=3ecf8e&currStreakNum=3ecf8e&sideNums=c9d1d9&currStreakLabel=3ecf8e&sideLabels=c9d1d9&dates=8b949e" alt="Streak stats"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-lohith&bg_color=0d1117&color=3ecf8e&line=3ecf8e&point=c9d1d9&area=true&area_color=3ecf8e&hide_border=true&custom_title=Contribution%20Pulse" width="100%" alt="Activity graph"/>
-
-<img src="https://raw.githubusercontent.com/Krishna-Lohith/Krishna-Lohith/output/github-snake-supabase.svg" width="100%" alt="Contribution snake"/>
-
-</div>
-
-<br/>
-
-## 🔗 Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-lohith--m--portfolio.vercel.app-3ecf8e?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0d1117)](https://lohith-m-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lohithmothu-0d1117?style=for-the-badge&logo=linkedin&logoColor=3ecf8e)](https://www.linkedin.com/in/lohithmothu/)
-[![Email](https://img.shields.io/badge/Email-lohith.mothu7%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=3ecf8e)](mailto:lohith.mothu7@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-@krishnalohith77-0d1117?style=for-the-badge&logo=medium&logoColor=3ecf8e)](https://medium.com/@krishnalohith77)
-
-<img src="assets/footer.svg" width="100%" alt="while(alive) { learn(); build(); share(); }"/>
-
-</div>
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:302b63,100:0f0c29&height=120&section=footer" />
+</p>
