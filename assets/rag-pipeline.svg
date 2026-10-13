@@ -1,0 +1,27 @@
+<svg viewBox="0 0 1000 216" width="1000" height="216" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="RAG pipeline: query, embed, retrieve, augment, generate">
+<style>
+.m{font-family:ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace}
+.up{opacity:0;animation:up .8s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+.fd{opacity:0;animation:fd .7s ease forwards}
+@keyframes fd{to{opacity:1}}
+.ln{stroke-dasharray:1200;stroke-dashoffset:1200;animation:ln 1.4s cubic-bezier(.6,0,.2,1) forwards}
+@keyframes ln{to{stroke-dashoffset:0}}
+.blink{animation:bl 1.1s steps(1) infinite}
+@keyframes bl{50%{opacity:0}}
+.pulse{animation:pu 2.4s ease-in-out infinite}
+@keyframes pu{0%,100%{opacity:1}50%{opacity:.3}}
+.d1{animation-delay:.1s}.d2{animation-delay:.3s}.d3{animation-delay:.5s}.d4{animation-delay:.7s}.d5{animation-delay:.9s}.d6{animation-delay:1.1s}.d7{animation-delay:1.3s}.d8{animation-delay:1.5s}
+@media (prefers-reduced-motion:reduce){.up,.fd,.ln{animation:none;opacity:1;stroke-dashoffset:0}}
+</style>
+<rect x="0.5" y="0.5" width="999" height="215" rx="10" fill="#0A0A0A" stroke="#1E1E1E"/>
+<text class="m fd d1" x="48" y="34" font-size="11" fill="#8C8C8C" letter-spacing="3" text-anchor="start" font-weight="normal">RAG PIPELINE  /  HOW A QUESTION BECOMES AN ANSWER</text>
+<path id="rag" d="M118,110 L862,110" stroke="#2C2C2C" stroke-width="1.2" stroke-dasharray="4 6"/>
+<g class="up d1"><rect x="48" y="86" width="140" height="48" rx="8" fill="#111" stroke="#2A2A2A"/><text class="m " x="118" y="115" font-size="13" fill="#E8E8E8" letter-spacing="2" text-anchor="middle" font-weight="bold">QUERY</text><text class="m " x="118" y="158" font-size="11.5" fill="#8C8C8C" letter-spacing="0" text-anchor="middle" font-weight="normal">user asks</text><text class="m " x="118" y="72" font-size="10" fill="#5A5A5A" letter-spacing="2" text-anchor="middle" font-weight="normal">01</text></g>
+<g class="up d2"><rect x="234" y="86" width="140" height="48" rx="8" fill="#111" stroke="#2A2A2A"/><text class="m " x="304" y="115" font-size="13" fill="#E8E8E8" letter-spacing="2" text-anchor="middle" font-weight="bold">EMBED</text><text class="m " x="304" y="158" font-size="11.5" fill="#8C8C8C" letter-spacing="0" text-anchor="middle" font-weight="normal">text to vectors</text><text class="m " x="304" y="72" font-size="10" fill="#5A5A5A" letter-spacing="2" text-anchor="middle" font-weight="normal">02</text></g>
+<g class="up d3"><rect x="420" y="86" width="140" height="48" rx="8" fill="#111" stroke="#2A2A2A"/><text class="m " x="490" y="115" font-size="13" fill="#E8E8E8" letter-spacing="2" text-anchor="middle" font-weight="bold">RETRIEVE</text><text class="m " x="490" y="158" font-size="11.5" fill="#8C8C8C" letter-spacing="0" text-anchor="middle" font-weight="normal">top-k context</text><text class="m " x="490" y="72" font-size="10" fill="#5A5A5A" letter-spacing="2" text-anchor="middle" font-weight="normal">03</text></g>
+<g class="up d4"><rect x="606" y="86" width="140" height="48" rx="8" fill="#111" stroke="#2A2A2A"/><text class="m " x="676" y="115" font-size="13" fill="#E8E8E8" letter-spacing="2" text-anchor="middle" font-weight="bold">AUGMENT</text><text class="m " x="676" y="158" font-size="11.5" fill="#8C8C8C" letter-spacing="0" text-anchor="middle" font-weight="normal">prompt + context</text><text class="m " x="676" y="72" font-size="10" fill="#5A5A5A" letter-spacing="2" text-anchor="middle" font-weight="normal">04</text></g>
+<g class="up d5"><rect x="792" y="86" width="140" height="48" rx="8" fill="#141108" stroke="#FFC400"/><text class="m " x="862" y="115" font-size="13" fill="#FFC400" letter-spacing="2" text-anchor="middle" font-weight="bold">GENERATE</text><text class="m " x="862" y="158" font-size="11.5" fill="#8C8C8C" letter-spacing="0" text-anchor="middle" font-weight="normal">llm answers</text><text class="m " x="862" y="72" font-size="10" fill="#5A5A5A" letter-spacing="2" text-anchor="middle" font-weight="normal">05</text></g>
+<g><rect x="-5" y="-5" width="10" height="10" fill="#FFC400" transform="rotate(45)"/><animateMotion dur="4s" begin="1.2s" repeatCount="indefinite"><mpath href="#rag"/></animateMotion></g>
+<text class="m fd d7" x="48" y="196" font-size="12.5" fill="#5A5A5A" letter-spacing="1" text-anchor="start" font-weight="normal">&gt; tokens in, context retrieved, hallucinations out.</text>
+</svg>

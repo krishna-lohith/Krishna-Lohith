@@ -1,0 +1,21 @@
+<svg viewBox="0 0 1000 214" width="1000" height="214" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Projects: DeshMate and PortVia">
+<style>
+.m{font-family:ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace}
+.up{opacity:0;animation:up .8s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+.fd{opacity:0;animation:fd .7s ease forwards}
+@keyframes fd{to{opacity:1}}
+.ln{stroke-dasharray:1200;stroke-dashoffset:1200;animation:ln 1.4s cubic-bezier(.6,0,.2,1) forwards}
+@keyframes ln{to{stroke-dashoffset:0}}
+.blink{animation:bl 1.1s steps(1) infinite}
+@keyframes bl{50%{opacity:0}}
+.pulse{animation:pu 2.4s ease-in-out infinite}
+@keyframes pu{0%,100%{opacity:1}50%{opacity:.3}}
+.d1{animation-delay:.1s}.d2{animation-delay:.3s}.d3{animation-delay:.5s}.d4{animation-delay:.7s}.d5{animation-delay:.9s}.d6{animation-delay:1.1s}.d7{animation-delay:1.3s}.d8{animation-delay:1.5s}
+@media (prefers-reduced-motion:reduce){.up,.fd,.ln{animation:none;opacity:1;stroke-dashoffset:0}}
+</style>
+<rect x="0.5" y="0.5" width="999" height="213" rx="10" fill="#0A0A0A" stroke="#1E1E1E"/>
+<g class="up d1"><text class="m " x="48" y="54" font-size="13" fill="#5A5A5A" letter-spacing="2" text-anchor="start" font-weight="normal">01</text><text class="m " x="96" y="54" font-size="22" fill="#E8E8E8" letter-spacing="0" text-anchor="start" font-weight="bold" textLength="104" lengthAdjust="spacingAndGlyphs">DeshMate</text><rect x="226" y="38" width="58" height="22" rx="4" fill="none" stroke="#FFC400"/><circle class="pulse" cx="238" cy="49" r="3" fill="#FFC400"/><text class="m " x="248" y="53" font-size="10.5" fill="#FFC400" letter-spacing="2" text-anchor="start" font-weight="normal">LIVE</text><text class="m " x="952" y="54" font-size="12" fill="#8C8C8C" letter-spacing="1" text-anchor="end" font-weight="normal">deshmate.com</text><text class="m " x="96" y="80" font-size="14.5" fill="#E8E8E8" letter-spacing="0" text-anchor="start" font-weight="normal">cultural roommate-matching platform for immigrants &amp; students</text><text class="m " x="96" y="102" font-size="12.5" fill="#8C8C8C" letter-spacing="0.5" text-anchor="start" font-weight="normal">36+ communities · map · auth · admin panel</text></g>
+<line class="ln d2" x1="48" y1="118" x2="952" y2="118" stroke="#1E1E1E"/>
+<g class="up d3"><text class="m " x="48" y="146" font-size="13" fill="#5A5A5A" letter-spacing="2" text-anchor="start" font-weight="normal">02</text><text class="m " x="96" y="146" font-size="22" fill="#E8E8E8" letter-spacing="0" text-anchor="start" font-weight="bold" textLength="91" lengthAdjust="spacingAndGlyphs">PortVia</text><rect x="226" y="130" width="58" height="22" rx="4" fill="none" stroke="#FFC400"/><circle class="pulse" cx="238" cy="141" r="3" fill="#FFC400"/><text class="m " x="248" y="145" font-size="10.5" fill="#FFC400" letter-spacing="2" text-anchor="start" font-weight="normal">LIVE</text><text class="m " x="952" y="146" font-size="12" fill="#8C8C8C" letter-spacing="1" text-anchor="end" font-weight="normal">portvia-app.vercel.app</text><text class="m " x="96" y="172" font-size="14.5" fill="#E8E8E8" letter-spacing="0" text-anchor="start" font-weight="normal">portfolio builder web app</text><text class="m " x="96" y="194" font-size="12.5" fill="#8C8C8C" letter-spacing="0.5" text-anchor="start" font-weight="normal">publish a portfolio with a shareable link in minutes</text></g>
+</svg>
