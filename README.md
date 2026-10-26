@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Krishna M, Software Developer and Gen AI Engineer" width="100%" />
+<img src="./assets/header.svg" alt="Krishna, Software Developer and Gen AI Engineer" width="100%" />
 
 <br/>
 
