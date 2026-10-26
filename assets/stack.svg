@@ -16,16 +16,16 @@
 </style>
 <rect x="0.5" y="0.5" width="999" height="255" rx="10" fill="#0A0A0A" stroke="#1E1E1E"/>
 <line x1="150" y1="14" x2="150" y2="240" stroke="#1E1E1E"/>
-<text class="m up d1" x="48" y="40" font-size="11.5" fill="#8C8C8C" letter-spacing="2" text-anchor="start" font-weight="normal">LANGUAGES</text>
-<text class="m up d1" x="170" y="40" font-size="15" fill="#E8E8E8" letter-spacing="0" text-anchor="start" font-weight="normal">Java · Python · JavaScript · HTML · CSS · SQL</text>
-<text class="m up d2" x="48" y="76" font-size="11.5" fill="#8C8C8C" letter-spacing="2" text-anchor="start" font-weight="normal">WEB</text>
-<text class="m up d2" x="170" y="76" font-size="15" fill="#E8E8E8" letter-spacing="0" text-anchor="start" font-weight="normal">React · Node.js · REST APIs · Responsive UI</text>
-<text class="m up d3" x="48" y="112" font-size="11.5" fill="#8C8C8C" letter-spacing="2" text-anchor="start" font-weight="normal">CLOUD</text>
-<text class="m up d3" x="170" y="112" font-size="15" fill="#E8E8E8" letter-spacing="0" text-anchor="start" font-weight="normal">AWS · Docker · Git · Linux</text>
-<text class="m up d4" x="48" y="148" font-size="11.5" fill="#FFC400" letter-spacing="2" text-anchor="start" font-weight="normal">GEN AI</text>
-<text class="m up d4" x="170" y="148" font-size="15" fill="#E8E8E8" letter-spacing="0" text-anchor="start" font-weight="normal">LLMs · RAG · LangChain · Hugging Face · MCP</text>
-<text class="m up d5" x="48" y="184" font-size="11.5" fill="#8C8C8C" letter-spacing="2" text-anchor="start" font-weight="normal">CONCEPTS</text>
-<text class="m up d5" x="170" y="184" font-size="15" fill="#E8E8E8" letter-spacing="0" text-anchor="start" font-weight="normal">Tokens · Embeddings · Prompt Engineering · Vector Search</text>
-<text class="m up d6" x="48" y="220" font-size="11.5" fill="#8C8C8C" letter-spacing="2" text-anchor="start" font-weight="normal">TOOLS</text>
-<text class="m up d6" x="170" y="220" font-size="15" fill="#E8E8E8" letter-spacing="0" text-anchor="start" font-weight="normal">Claude · ChatGPT · VS Code · GitHub</text>
+<text class="m up d1" x="48" y="40" font-size="12.5" fill="#BDBDBD" letter-spacing="2" text-anchor="start" font-weight="normal">LANGUAGES</text>
+<text class="m up d1" x="170" y="40" font-size="16" fill="#E8E8E8" letter-spacing="0" text-anchor="start" font-weight="normal">Java · Python · JavaScript · HTML · CSS · SQL</text>
+<text class="m up d2" x="48" y="76" font-size="12.5" fill="#BDBDBD" letter-spacing="2" text-anchor="start" font-weight="normal">WEB</text>
+<text class="m up d2" x="170" y="76" font-size="16" fill="#E8E8E8" letter-spacing="0" text-anchor="start" font-weight="normal">React · Node.js · REST APIs · Responsive UI</text>
+<text class="m up d3" x="48" y="112" font-size="12.5" fill="#BDBDBD" letter-spacing="2" text-anchor="start" font-weight="normal">CLOUD</text>
+<text class="m up d3" x="170" y="112" font-size="16" fill="#E8E8E8" letter-spacing="0" text-anchor="start" font-weight="normal">AWS · Docker · Git · Linux</text>
+<text class="m up d4" x="48" y="148" font-size="12.5" fill="#FFC400" letter-spacing="2" text-anchor="start" font-weight="normal">GEN AI</text>
+<text class="m up d4" x="170" y="148" font-size="16" fill="#E8E8E8" letter-spacing="0" text-anchor="start" font-weight="normal">LLMs · RAG · LangChain · Hugging Face · MCP</text>
+<text class="m up d5" x="48" y="184" font-size="12.5" fill="#BDBDBD" letter-spacing="2" text-anchor="start" font-weight="normal">CONCEPTS</text>
+<text class="m up d5" x="170" y="184" font-size="16" fill="#E8E8E8" letter-spacing="0" text-anchor="start" font-weight="normal">Tokens · Embeddings · Prompt Engineering · Vector Search</text>
+<text class="m up d6" x="48" y="220" font-size="12.5" fill="#BDBDBD" letter-spacing="2" text-anchor="start" font-weight="normal">TOOLS</text>
+<text class="m up d6" x="170" y="220" font-size="16" fill="#E8E8E8" letter-spacing="0" text-anchor="start" font-weight="normal">Claude · ChatGPT · VS Code · GitHub</text>
 </svg>
