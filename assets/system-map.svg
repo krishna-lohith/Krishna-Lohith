@@ -15,32 +15,32 @@
 @media (prefers-reduced-motion:reduce){.up,.fd,.ln{animation:none;opacity:1;stroke-dashoffset:0}}
 </style>
 <rect x="0.5" y="0.5" width="999" height="299" rx="10" fill="#0A0A0A" stroke="#1E1E1E"/>
-<text class="m fd d1" x="140" y="32" font-size="11" fill="#8C8C8C" letter-spacing="3" text-anchor="middle" font-weight="normal">SOFTWARE</text>
-<text class="m fd d1" x="860" y="32" font-size="11" fill="#8C8C8C" letter-spacing="3" text-anchor="middle" font-weight="normal">GEN AI</text>
+<text class="m fd d1" x="140" y="32" font-size="12" fill="#BDBDBD" letter-spacing="3" text-anchor="middle" font-weight="normal">SOFTWARE</text>
+<text class="m fd d1" x="860" y="32" font-size="12" fill="#BDBDBD" letter-spacing="3" text-anchor="middle" font-weight="normal">GEN AI</text>
 <path id="p0" class="ln d2" d="M210,70 C310.0,70 310.0,170 410,170" stroke="#2C2C2C" stroke-width="1.2"/>
 <circle r="2.6" fill="#FFC400"><animateMotion dur="2.60s" begin="1.2s" repeatCount="indefinite"><mpath href="#p0"/></animateMotion></circle>
-<g class="up d3"><rect x="70" y="53" width="140" height="34" rx="6" fill="#111" stroke="#2A2A2A"/><text class="m " x="140" y="75" font-size="13.5" fill="#E8E8E8" letter-spacing="0" text-anchor="middle" font-weight="normal">Java</text></g>
+<g class="up d3"><rect x="70" y="53" width="140" height="34" rx="6" fill="#111" stroke="#2A2A2A"/><text class="m " x="140" y="75" font-size="14.5" fill="#E8E8E8" letter-spacing="0" text-anchor="middle" font-weight="normal">Java</text></g>
 <path id="p1" class="ln d2" d="M210,130 C310.0,130 310.0,170 410,170" stroke="#2C2C2C" stroke-width="1.2"/>
 <circle r="2.6" fill="#FFC400"><animateMotion dur="2.95s" begin="1.4s" repeatCount="indefinite"><mpath href="#p1"/></animateMotion></circle>
-<g class="up d4"><rect x="70" y="113" width="140" height="34" rx="6" fill="#111" stroke="#2A2A2A"/><text class="m " x="140" y="135" font-size="13.5" fill="#E8E8E8" letter-spacing="0" text-anchor="middle" font-weight="normal">Python</text></g>
+<g class="up d4"><rect x="70" y="113" width="140" height="34" rx="6" fill="#111" stroke="#2A2A2A"/><text class="m " x="140" y="135" font-size="14.5" fill="#E8E8E8" letter-spacing="0" text-anchor="middle" font-weight="normal">Python</text></g>
 <path id="p2" class="ln d2" d="M210,190 C310.0,190 310.0,170 410,170" stroke="#2C2C2C" stroke-width="1.2"/>
 <circle r="2.6" fill="#FFC400"><animateMotion dur="3.30s" begin="1.6s" repeatCount="indefinite"><mpath href="#p2"/></animateMotion></circle>
-<g class="up d5"><rect x="70" y="173" width="140" height="34" rx="6" fill="#111" stroke="#2A2A2A"/><text class="m " x="140" y="195" font-size="13.5" fill="#E8E8E8" letter-spacing="0" text-anchor="middle" font-weight="normal">HTML / CSS</text></g>
+<g class="up d5"><rect x="70" y="173" width="140" height="34" rx="6" fill="#111" stroke="#2A2A2A"/><text class="m " x="140" y="195" font-size="14.5" fill="#E8E8E8" letter-spacing="0" text-anchor="middle" font-weight="normal">HTML / CSS</text></g>
 <path id="p3" class="ln d2" d="M210,250 C310.0,250 310.0,170 410,170" stroke="#2C2C2C" stroke-width="1.2"/>
 <circle r="2.6" fill="#FFC400"><animateMotion dur="3.65s" begin="1.8s" repeatCount="indefinite"><mpath href="#p3"/></animateMotion></circle>
-<g class="up d6"><rect x="70" y="233" width="140" height="34" rx="6" fill="#111" stroke="#2A2A2A"/><text class="m " x="140" y="255" font-size="13.5" fill="#E8E8E8" letter-spacing="0" text-anchor="middle" font-weight="normal">AWS</text></g>
+<g class="up d6"><rect x="70" y="233" width="140" height="34" rx="6" fill="#111" stroke="#2A2A2A"/><text class="m " x="140" y="255" font-size="14.5" fill="#E8E8E8" letter-spacing="0" text-anchor="middle" font-weight="normal">AWS</text></g>
 <path id="p4" class="ln d2" d="M790,70 C690.0,70 690.0,170 590,170" stroke="#2C2C2C" stroke-width="1.2"/>
 <circle r="2.6" fill="#FFC400"><animateMotion dur="4.00s" begin="2.0s" repeatCount="indefinite"><mpath href="#p4"/></animateMotion></circle>
-<g class="up d3"><rect x="790" y="53" width="140" height="34" rx="6" fill="#111" stroke="#2A2A2A"/><text class="m " x="860" y="75" font-size="13.5" fill="#E8E8E8" letter-spacing="0" text-anchor="middle" font-weight="normal">LLMs</text></g>
+<g class="up d3"><rect x="790" y="53" width="140" height="34" rx="6" fill="#111" stroke="#2A2A2A"/><text class="m " x="860" y="75" font-size="14.5" fill="#E8E8E8" letter-spacing="0" text-anchor="middle" font-weight="normal">LLMs</text></g>
 <path id="p5" class="ln d2" d="M790,130 C690.0,130 690.0,170 590,170" stroke="#2C2C2C" stroke-width="1.2"/>
 <circle r="2.6" fill="#FFC400"><animateMotion dur="4.35s" begin="2.2s" repeatCount="indefinite"><mpath href="#p5"/></animateMotion></circle>
-<g class="up d4"><rect x="790" y="113" width="140" height="34" rx="6" fill="#111" stroke="#2A2A2A"/><text class="m " x="860" y="135" font-size="13.5" fill="#E8E8E8" letter-spacing="0" text-anchor="middle" font-weight="normal">RAG</text></g>
+<g class="up d4"><rect x="790" y="113" width="140" height="34" rx="6" fill="#111" stroke="#2A2A2A"/><text class="m " x="860" y="135" font-size="14.5" fill="#E8E8E8" letter-spacing="0" text-anchor="middle" font-weight="normal">RAG</text></g>
 <path id="p6" class="ln d2" d="M790,190 C690.0,190 690.0,170 590,170" stroke="#2C2C2C" stroke-width="1.2"/>
 <circle r="2.6" fill="#FFC400"><animateMotion dur="4.70s" begin="2.4s" repeatCount="indefinite"><mpath href="#p6"/></animateMotion></circle>
-<g class="up d5"><rect x="790" y="173" width="140" height="34" rx="6" fill="#111" stroke="#2A2A2A"/><text class="m " x="860" y="195" font-size="13.5" fill="#E8E8E8" letter-spacing="0" text-anchor="middle" font-weight="normal">Tokens</text></g>
+<g class="up d5"><rect x="790" y="173" width="140" height="34" rx="6" fill="#111" stroke="#2A2A2A"/><text class="m " x="860" y="195" font-size="14.5" fill="#E8E8E8" letter-spacing="0" text-anchor="middle" font-weight="normal">Tokens</text></g>
 <path id="p7" class="ln d2" d="M790,250 C690.0,250 690.0,170 590,170" stroke="#2C2C2C" stroke-width="1.2"/>
 <circle r="2.6" fill="#FFC400"><animateMotion dur="5.05s" begin="2.6s" repeatCount="indefinite"><mpath href="#p7"/></animateMotion></circle>
-<g class="up d6"><rect x="790" y="233" width="140" height="34" rx="6" fill="#111" stroke="#2A2A2A"/><text class="m " x="860" y="255" font-size="13.5" fill="#E8E8E8" letter-spacing="0" text-anchor="middle" font-weight="normal">Prompts</text></g>
-<g class="up d2"><rect x="410" y="134" width="180" height="72" rx="10" fill="#141108" stroke="#FFC400" stroke-width="1.4"/><text class="m " x="500" y="166" font-size="17" fill="#FFC400" letter-spacing="3" text-anchor="middle" font-weight="bold">KRISHNA</text><text class="m " x="500" y="188" font-size="11" fill="#8C8C8C" letter-spacing="2" text-anchor="middle" font-weight="normal">core process</text></g>
+<g class="up d6"><rect x="790" y="233" width="140" height="34" rx="6" fill="#111" stroke="#2A2A2A"/><text class="m " x="860" y="255" font-size="14.5" fill="#E8E8E8" letter-spacing="0" text-anchor="middle" font-weight="normal">Prompts</text></g>
+<g class="up d2"><rect x="410" y="134" width="180" height="72" rx="10" fill="#141108" stroke="#FFC400" stroke-width="1.4"/><text class="m " x="500" y="166" font-size="18" fill="#FFC400" letter-spacing="3" text-anchor="middle" font-weight="bold">KRISHNA</text><text class="m " x="500" y="188" font-size="12" fill="#BDBDBD" letter-spacing="2" text-anchor="middle" font-weight="normal">core process</text></g>
 <circle class="pulse" cx="576" cy="146" r="3.5" fill="#FFC400"/>
 </svg>
