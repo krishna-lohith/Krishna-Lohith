@@ -15,14 +15,14 @@
 @media (prefers-reduced-motion:reduce){.up,.fd,.ln{animation:none;opacity:1;stroke-dashoffset:0}}
 </style>
 <rect x="0.5" y="0.5" width="999" height="237" rx="10" fill="#0A0A0A" stroke="#1E1E1E"/>
-<text class="m up d1" x="48" y="40" font-size="16" fill="#E8E8E8" letter-spacing="0" text-anchor="start" font-weight="normal">software developer who writes code and talks to models.</text>
-<text class="m up d2" x="48" y="68" font-size="16" fill="#E8E8E8" letter-spacing="0" text-anchor="start" font-weight="normal">building where classic engineering meets generative AI.</text>
-<text class="m up d3" x="48" y="96" font-size="14.5" fill="#8C8C8C" letter-spacing="0" text-anchor="start" font-weight="normal">java &amp; python under the hood, html &amp; css on the surface, an llm in the loop.</text>
+<text class="m up d1" x="48" y="40" font-size="17" fill="#E8E8E8" letter-spacing="0" text-anchor="start" font-weight="normal">software developer who writes code and talks to models.</text>
+<text class="m up d2" x="48" y="68" font-size="17" fill="#E8E8E8" letter-spacing="0" text-anchor="start" font-weight="normal">building where classic engineering meets generative AI.</text>
+<text class="m up d3" x="48" y="96" font-size="15.5" fill="#BDBDBD" letter-spacing="0" text-anchor="start" font-weight="normal">java &amp; python under the hood, html &amp; css on the surface, an llm in the loop.</text>
 <line class="up d4" x1="48" y1="122" x2="952" y2="122" stroke="#1E1E1E"/>
-<text class="m up d5" x="48" y="156" font-size="11" fill="#8C8C8C" letter-spacing="2.5" text-anchor="start" font-weight="normal">FOCUS</text>
-<text class="m up d5" x="160" y="156" font-size="15" fill="#E8E8E8" letter-spacing="0" text-anchor="start" font-weight="normal">Software Engineering · Gen AI · Cloud</text>
-<text class="m up d6" x="48" y="188" font-size="11" fill="#8C8C8C" letter-spacing="2.5" text-anchor="start" font-weight="normal">STATUS</text>
-<text class="m up d6" x="160" y="188" font-size="15" fill="#FFC400" letter-spacing="0" text-anchor="start" font-weight="normal">open to software &amp; AI engineering roles</text>
-<text class="m up d7" x="48" y="220" font-size="11" fill="#8C8C8C" letter-spacing="2.5" text-anchor="start" font-weight="normal">WRITING</text>
-<text class="m up d7" x="160" y="220" font-size="15" fill="#E8E8E8" letter-spacing="0" text-anchor="start" font-weight="normal">medium.com/@Krishnam963</text>
+<text class="m up d5" x="48" y="156" font-size="12" fill="#BDBDBD" letter-spacing="2.5" text-anchor="start" font-weight="normal">FOCUS</text>
+<text class="m up d5" x="160" y="156" font-size="16" fill="#E8E8E8" letter-spacing="0" text-anchor="start" font-weight="normal">Software Engineering · Gen AI · Cloud</text>
+<text class="m up d6" x="48" y="188" font-size="12" fill="#BDBDBD" letter-spacing="2.5" text-anchor="start" font-weight="normal">STATUS</text>
+<text class="m up d6" x="160" y="188" font-size="16" fill="#FFC400" letter-spacing="0" text-anchor="start" font-weight="normal">open to software &amp; AI engineering roles</text>
+<text class="m up d7" x="48" y="220" font-size="12" fill="#BDBDBD" letter-spacing="2.5" text-anchor="start" font-weight="normal">WRITING</text>
+<text class="m up d7" x="160" y="220" font-size="16" fill="#E8E8E8" letter-spacing="0" text-anchor="start" font-weight="normal">medium.com/@Krishnam963</text>
 </svg>
