@@ -15,5 +15,5 @@
 @media (prefers-reduced-motion:reduce){.up,.fd,.ln{animation:none;opacity:1;stroke-dashoffset:0}}
 </style>
 <rect x="0.5" y="0.5" width="999" height="87" rx="10" fill="#0A0A0A" stroke="#1E1E1E"/>
-<g class="fd"><text class="m " x="40" y="62" font-size="51" fill="#3C3C3C" letter-spacing="0" text-anchor="start" font-weight="bold">04</text><text class="m " x="120" y="54" font-size="15" fill="#FFC400" letter-spacing="6" text-anchor="start" font-weight="normal">HOW I THINK</text><text class="m " x="960" y="54" font-size="12" fill="#9E9E9E" letter-spacing="2" text-anchor="end" font-weight="normal">~/04-rag-pipeline</text></g><line class="ln d2" x1="285.2" y1="49" x2="780" y2="49" stroke="#1E1E1E"/>
+<g class="fd"><text class="m " x="40" y="62" font-size="51" fill="#B0B0B0" letter-spacing="0" text-anchor="start" font-weight="bold">04</text><text class="m " x="120" y="54" font-size="15" fill="#FFC400" letter-spacing="6" text-anchor="start" font-weight="normal">HOW I THINK</text><text class="m " x="960" y="54" font-size="12" fill="#9E9E9E" letter-spacing="2" text-anchor="end" font-weight="normal">~/04-rag-pipeline</text></g><line class="ln d2" x1="285.2" y1="49" x2="780" y2="49" stroke="#1E1E1E"/>
 </svg>
