@@ -41,6 +41,6 @@
 <path id="p7" class="ln d2" d="M790,250 C690.0,250 690.0,170 590,170" stroke="#2C2C2C" stroke-width="1.2"/>
 <circle r="2.6" fill="#FFC400"><animateMotion dur="5.05s" begin="2.6s" repeatCount="indefinite"><mpath href="#p7"/></animateMotion></circle>
 <g class="up d6"><rect x="790" y="233" width="140" height="34" rx="6" fill="#111" stroke="#2A2A2A"/><text class="m " x="860" y="255" font-size="13.5" fill="#E8E8E8" letter-spacing="0" text-anchor="middle" font-weight="normal">Prompts</text></g>
-<g class="up d2"><rect x="410" y="134" width="180" height="72" rx="10" fill="#141108" stroke="#FFC400" stroke-width="1.4"/><text class="m " x="500" y="166" font-size="17" fill="#FFC400" letter-spacing="3" text-anchor="middle" font-weight="bold">KRISHNA.M</text><text class="m " x="500" y="188" font-size="11" fill="#8C8C8C" letter-spacing="2" text-anchor="middle" font-weight="normal">core process</text></g>
+<g class="up d2"><rect x="410" y="134" width="180" height="72" rx="10" fill="#141108" stroke="#FFC400" stroke-width="1.4"/><text class="m " x="500" y="166" font-size="17" fill="#FFC400" letter-spacing="3" text-anchor="middle" font-weight="bold">KRISHNA</text><text class="m " x="500" y="188" font-size="11" fill="#8C8C8C" letter-spacing="2" text-anchor="middle" font-weight="normal">core process</text></g>
 <circle class="pulse" cx="576" cy="146" r="3.5" fill="#FFC400"/>
 </svg>
