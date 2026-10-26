@@ -32,7 +32,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=krishna77-creator&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FFC400&icon_color=FFC400&text_color=E8E8E8&ring_color=FFC400&custom_title=SYSTEM%20STATS" height="165" alt="GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna77-creator&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FFC400&text_color=E8E8E8&custom_title=LANGUAGE%20MIX" height="165" alt="Top languages" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishna77-creator&bg_color=0A0A0A&color=8C8C8C&line=FFC400&point=E8E8E8&area=true&area_color=FFC400&hide_border=true&radius=8&custom_title=CONTRIBUTION%20TELEMETRY&title_color=FFC400" width="100%" alt="Contribution activity" />
+<img src="https://streak-stats.demolab.com?user=krishna77-creator&background=0A0A0A&border=0A0A0A&ring=FFC400&fire=FFC400&currStreakNum=E8E8E8&sideNums=E8E8E8&currStreakLabel=FFC400&sideLabels=BDBDBD&dates=9E9E9E&stroke=1E1E1E&hide_border=true" width="100%" alt="Contribution streak" />
 
 <img src="./assets/s06.svg" alt="06 arsenal" width="100%" />
 <img src="./assets/stack.svg" alt="Tech stack" width="100%" />
